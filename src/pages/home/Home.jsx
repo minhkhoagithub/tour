@@ -1,6 +1,6 @@
 import React from 'react'
 import Hero from '../../components/Hero'
-import FeatureDestination from '../../Components/FeatureDestination.jsx'
+import FeatureDestination from'../components/FeatureDestination.jsx'
 import Features from '../../components/Features'
 import GalleryComp from '../../components/GalleryComp'
 import Banner from '../../Components/Banner'
