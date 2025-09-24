@@ -3,7 +3,7 @@ import Hero from '../../components/Hero'
 import FeatureDestination from '../../components/FeatureDestination.jsx'
 import Features from '../../components/Features'
 import GalleryComp from '../../components/GalleryComp'
-import Banner from '../../Components/Banner'
+import Banner from '../..//components/Banner.jsx'
 import Contact from '../../Components/ContactComp'
 
 export default function Home () {
